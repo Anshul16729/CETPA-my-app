@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+.ss{
+  background-color: black;
+  color:aqua;
+  font-size: 50px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
