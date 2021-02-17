@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import React from 'react';
 import './App.css';
 import Home from './components/Home';
+import Home from './components/About';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
      2. Class Component: 
      */}
      <Home/>
+     <About/>
     </div>
   );
 }
